@@ -1,0 +1,39 @@
+body{
+	background-color: black;
+}
+h1{
+	color: white;
+	font-family: 'roboto', sans-serif;
+	font-weight: 900;
+}
+h2{
+	color: white;
+	font-family: 'roboto', sans-serif;
+	font-weight: 900;
+}
+p{
+	color: white;
+	font-family: 'roboto', sans-serif;
+}
+button{
+	background-color: #222222;
+	border: none;
+	border-width: 0px;
+	color: white;
+	padding: 10px;
+	outline: none;
+
+}
+button:hover{
+	background-color: #272727;
+	cursor: pointer;
+}
+<img{
+	width: 1000px
+}
+#selected{
+	background-color: orange;
+}
+#selected:hover {
+	cursor: inherit;
+}
